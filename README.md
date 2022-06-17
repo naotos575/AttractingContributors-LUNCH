@@ -23,5 +23,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # Please-tell-me-your-favorite-Electronics-company
 1. Lenovo
 2. Sony
-3. Panasonic
-4. Huawei
+3. TOSHIBA
+4. Panasonic
+5. Huawei
