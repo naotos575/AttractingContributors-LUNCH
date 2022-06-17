@@ -24,3 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Lenovo
 2. Sony
 3. Sony
+4. TOSHIBA
+5. Panasonic
+6. Huawei
