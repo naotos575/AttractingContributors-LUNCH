@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. TOSHIBA
 7. Panasonic
 8. Huawei
+9. Philips
