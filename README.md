@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. Huawei
 9. Philips
 10. HITACHI
+1. Apple
