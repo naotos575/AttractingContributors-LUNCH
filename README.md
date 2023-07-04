@@ -38,3 +38,4 @@ I think I should eat healthier food!
 - french fry
 - curry　　　
 - たこ焼き
+- ポトフ
